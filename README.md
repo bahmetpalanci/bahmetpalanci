@@ -1,15 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Burak%20Palanc%C4%B1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Team%20Lead&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Burak%20Palanc%C4%B1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=enterprise+e-invoicing+%26+reconciliation+platforms;native+macOS+menu+bar+utilities;open+source+contributor+%26+homebrew+maintainer)](https://github.com/bahmetpalanci)
 
 </div>
 
 <br/>
 
-- :office:&ensp;Software Engineering Team Lead at **[Melasoft](https://melasoft.com)**
-- :globe_with_meridians:&ensp;Building enterprise e-invoicing & reconciliation platforms across Europe and the Middle East
-- :mortar_board:&ensp;Yildiz Technical University
+- :office:&ensp;Team Lead at **[Melasoft](https://melasoft.com)** — enterprise platforms across Europe and the Middle East
+- :globe_with_meridians:&ensp;E-invoicing, financial reconciliation & compliance systems
+- :mortar_board:&ensp;Istanbul University · Yildiz Technical University
 - :round_pushpin:&ensp;Istanbul, Turkey
+
+---
+
+### What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Enterprise Systems**
+
+Cross-border e-invoicing and reconciliation platforms handling document exchange through Peppol, UBL and KSeF. Multi-tenant architectures with event-driven processing, designed for high-volume financial workflows.
+
+</td>
+<td width="50%" valign="top">
+
+**macOS Utilities**
+
+Lightweight, native menu bar apps that solve everyday annoyances — microphone toggling, per-app audio control, and custom notification sounds. Distributed via Homebrew for one-line installs.
+
+</td>
+</tr>
+</table>
 
 ---
 
