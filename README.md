@@ -1,32 +1,34 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Hi%2C+I'm+Burak+Palanc%C4%B1;Software+Engineering+Team+Lead)](https://github.com/bahmetpalanci)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Burak%20Palanc%C4%B1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Team%20Lead&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 </div>
 
-### About Me
+<br/>
 
-- :office: Software Engineering Team Lead at **[Melasoft](https://melasoft.com)**
-- :globe_with_meridians: Building enterprise e-invoicing & reconciliation platforms across Europe and the Middle East
-- :mortar_board: Yildiz Technical University
-- :round_pushpin: Istanbul, Turkey
+- :office:&ensp;Software Engineering Team Lead at **[Melasoft](https://melasoft.com)**
+- :globe_with_meridians:&ensp;Building enterprise e-invoicing & reconciliation platforms across Europe and the Middle East
+- :mortar_board:&ensp;Yildiz Technical University
+- :round_pushpin:&ensp;Istanbul, Turkey
 
 ---
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JHipster](https://img.shields.io/badge/JHipster-3E8ACC?style=for-the-badge&logo=jhipster&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/JHipster-3E8ACC?style=for-the-badge&logo=jhipster&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=linuxcontainers&logoColor=white" />
+</p>
 
 ---
 
@@ -34,8 +36,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bahmetpalanci&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahmetpalanci&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bahmetpalanci.vercel.app/api?username=bahmetpalanci&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bahmetpalanci.vercel.app/api?username=bahmetpalanci&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=bahmetpalanci&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+</picture>
+&nbsp;
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bahmetpalanci.vercel.app/api/top-langs/?username=bahmetpalanci&layout=compact&theme=github_dark&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bahmetpalanci.vercel.app/api/top-langs/?username=bahmetpalanci&layout=compact&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahmetpalanci&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
+</picture>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=bahmetpalanci&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
@@ -47,39 +60,35 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[mic-mute](https://github.com/bahmetpalanci/mic-mute)**
-
+#### [mic-mute](https://github.com/bahmetpalanci/mic-mute)
 One-click microphone mute/unmute for macOS menu bar
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[teams-volume](https://github.com/bahmetpalanci/teams-volume)**
-
+#### [teams-volume](https://github.com/bahmetpalanci/teams-volume)
 Per-app volume control for Microsoft Teams on macOS
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Core Audio](https://img.shields.io/badge/Core_Audio-000?style=flat-square&logo=apple&logoColor=white)
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Core_Audio-000?style=flat-square&logo=apple&logoColor=white" />
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[teams-alert](https://github.com/bahmetpalanci/teams-alert)**
-
+#### [teams-alert](https://github.com/bahmetpalanci/teams-alert)
 Custom alert sounds for Microsoft Teams contacts
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[homebrew-tap](https://github.com/bahmetpalanci/homebrew-tap)**
-
+#### [homebrew-tap](https://github.com/bahmetpalanci/homebrew-tap)
 Homebrew formulae for all macOS tools
 
 ```
@@ -95,9 +104,13 @@ brew install mic-mute
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burakpalanci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burakpalanci)&ensp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahmetpalanci)
 
-![Profile Views](https://komarev.com/ghpvc/?username=bahmetpalanci&color=58A6FF&style=flat-square)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bahmetpalanci&color=58A6FF&style=flat-square&label=Profile+Views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%" />
