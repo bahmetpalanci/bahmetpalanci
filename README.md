@@ -17,37 +17,40 @@
 
 ### Domains
 
-<p>
-<img src="https://img.shields.io/badge/E--Invoicing-58A6FF?style=flat-square" />
-<img src="https://img.shields.io/badge/E--Commerce-58A6FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Telecommunications-58A6FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Fintech-58A6FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Insurance-58A6FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Search%20Optimization-58A6FF?style=flat-square" />
-</p>
-
----
-
-### What I Build
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**Enterprise Systems**
-
-Cross-border e-invoicing and reconciliation platforms handling Factur-X, UBL 2.1 and KSeF standards. High-traffic search APIs with 40% response time improvements. Payment systems, asset management portals and multi-tenant SaaS architectures with event-driven processing.
-
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/E--Invoicing-0d1117?style=for-the-badge&logo=docusign&logoColor=58A6FF" /><br/>
+<sub>Factur-X · UBL 2.1 · KSeF</sub>
 </td>
-<td width="50%" valign="top">
-
-**macOS Utilities**
-
-Lightweight, native menu bar apps that solve everyday annoyances — microphone toggling, per-app audio control via Core Audio Tap, and custom notification sounds. Distributed via Homebrew for one-line installs.
-
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/E--Commerce-0d1117?style=for-the-badge&logo=shopify&logoColor=58A6FF" /><br/>
+<sub>Search APIs · Product Ranking</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Telecom-0d1117?style=for-the-badge&logo=simkart&logoColor=58A6FF" /><br/>
+<sub>Payments · Asset Mgmt</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Fintech-0d1117?style=for-the-badge&logo=cashapp&logoColor=58A6FF" /><br/>
+<sub>Reconciliation · Compliance</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Insurance-0d1117?style=for-the-badge&logo=shield&logoColor=58A6FF" /><br/>
+<sub>Portals · E-Commerce</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/macOS-0d1117?style=for-the-badge&logo=apple&logoColor=58A6FF" /><br/>
+<sub>Menu Bar · Core Audio</sub>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -92,18 +95,6 @@ Lightweight, native menu bar apps that solve everyday annoyances — microphone 
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=linuxcontainers&logoColor=white" />
 </p>
-
----
-
-### Highlights
-
-:medal_sports:&ensp;**3rd in Class** — Istanbul University, Computer Engineering
-
-:1st_place_medal:&ensp;**Top 10 Finalist** — Sahibinden Dev Akademi Hackathon
-
-:1st_place_medal:&ensp;**3rd Place** — TAV Technologies IDEATHON
-
-:scroll:&ensp;**Oracle Certified Associate** — Java SE 8 Programmer
 
 > :bar_chart:&ensp;*Most of my professional work lives on private GitLab instances — what you see here is the tip of the iceberg.*
 
