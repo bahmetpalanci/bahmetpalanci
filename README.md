@@ -18,38 +18,17 @@
 ### Domains
 
 <div align="center">
+<br/>
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/E--Invoicing-0d1117?style=for-the-badge&logo=docusign&logoColor=58A6FF" /><br/>
-<sub>Factur-X · UBL 2.1 · KSeF</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/E--Commerce-0d1117?style=for-the-badge&logo=shopify&logoColor=58A6FF" /><br/>
-<sub>Search APIs · Product Ranking</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Telecom-0d1117?style=for-the-badge&logo=simkart&logoColor=58A6FF" /><br/>
-<sub>Payments · Asset Mgmt</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Fintech-0d1117?style=for-the-badge&logo=cashapp&logoColor=58A6FF" /><br/>
-<sub>Reconciliation · Compliance</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Insurance-0d1117?style=for-the-badge&logo=shield&logoColor=58A6FF" /><br/>
-<sub>Portals · E-Commerce</sub>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/macOS-0d1117?style=for-the-badge&logo=apple&logoColor=58A6FF" /><br/>
-<sub>Menu Bar · Core Audio</sub>
-</td>
-</tr>
-</table>
+:receipt:&ensp;**E-Invoicing** · Factur-X · UBL 2.1 · KSeF&emsp;&emsp;
+:shopping_cart:&ensp;**E-Commerce** · Search APIs · Product Ranking&emsp;&emsp;
+:telephone_receiver:&ensp;**Telecom** · Payments · Asset Management
 
+:bank:&ensp;**Fintech** · Reconciliation · Compliance&emsp;&emsp;
+:shield:&ensp;**Insurance** · Portals · E-Commerce&emsp;&emsp;
+:computer:&ensp;**macOS** · Menu Bar · Core Audio
+
+<br/>
 </div>
 
 ---
@@ -95,8 +74,6 @@
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=linuxcontainers&logoColor=white" />
 </p>
-
-> :bar_chart:&ensp;*Most of my professional work lives on private GitLab instances — what you see here is the tip of the iceberg.*
 
 ---
 
