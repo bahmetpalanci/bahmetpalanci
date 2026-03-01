@@ -36,13 +36,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bahmetpalanci&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=bahmetpalanci&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahmetpalanci&theme=github-dark&hide_border=true&area=true&area_color=58a6ff" alt="Contribution Graph" width="95%" />
 
