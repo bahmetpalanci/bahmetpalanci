@@ -18,17 +18,16 @@
 ### Domains
 
 <div align="center">
-<br/>
-
-:receipt:&ensp;**E-Invoicing** · Factur-X · UBL 2.1 · KSeF&emsp;&emsp;
-:shopping_cart:&ensp;**E-Commerce** · Search APIs · Product Ranking&emsp;&emsp;
-:telephone_receiver:&ensp;**Telecom** · Payments · Asset Management
-
-:bank:&ensp;**Fintech** · Reconciliation · Compliance&emsp;&emsp;
-:shield:&ensp;**Insurance** · Portals · E-Commerce&emsp;&emsp;
-:computer:&ensp;**macOS** · Menu Bar · Core Audio
-
-<br/>
+<p>
+<img src="https://img.shields.io/badge/E--Invoicing-Factur--X_·_UBL_2.1_·_KSeF-1a1b27?style=for-the-badge&logo=docusign&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/E--Commerce-Search_APIs_·_Product_Ranking-1a1b27?style=for-the-badge&logo=shopify&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Telecom-Payments_·_Asset_Management-1a1b27?style=for-the-badge&logo=vodafone&logoColor=58A6FF" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Fintech-Reconciliation_·_Compliance-1a1b27?style=for-the-badge&logo=stripe&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Insurance-Portals_·_E--Commerce-1a1b27?style=for-the-badge&logo=shield&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/macOS-Menu_Bar_·_Core_Audio-1a1b27?style=for-the-badge&logo=apple&logoColor=58A6FF" />
+</p>
 </div>
 
 ---
