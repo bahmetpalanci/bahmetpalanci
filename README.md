@@ -36,21 +36,15 @@
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bahmetpalanci.vercel.app/api?username=bahmetpalanci&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bahmetpalanci.vercel.app/api?username=bahmetpalanci&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=bahmetpalanci&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-</picture>
-&nbsp;
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-bahmetpalanci.vercel.app/api/top-langs/?username=bahmetpalanci&layout=compact&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-bahmetpalanci.vercel.app/api/top-langs/?username=bahmetpalanci&layout=compact&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahmetpalanci&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=bahmetpalanci&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=bahmetpalanci&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahmetpalanci&theme=github-dark&hide_border=true&area=true&area_color=58a6ff" alt="Contribution Graph" width="95%" />
 
 </div>
 
